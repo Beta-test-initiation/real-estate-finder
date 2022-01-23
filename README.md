@@ -1,0 +1,1 @@
+A search optimised real estate finder for exploring butying and renting options built with NEXT JS, React and Chakra UI.
